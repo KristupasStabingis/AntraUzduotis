@@ -23,7 +23,7 @@ Likusios, prieš tai buvusios funkcijos liko nepakitusios.
 Šioje versijoje klasė studentas išdalinta į klases : Bazinė Žmogus bei išvestinę iš jos Studentas.
 
 # v2.0
-
+Pridėtas DOXYGEN programa sukurtas HTML failas.
 Pridėtas CMAKELISTS.txt failas, kuris padeda sukurti programos exe failą. Taip pat pridėtas ir pats .exe failas, kuris buvo sukurtas CMAKELISTS.txt pagalba.
 
 # Naudojimosi instrukcija:
