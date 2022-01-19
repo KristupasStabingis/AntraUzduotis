@@ -24,7 +24,7 @@ Likusios, prieš tai buvusios funkcijos liko nepakitusios.
 
 # v2.0
 
-
+Pridėtas CMAKELISTS.txt failas, kuris padeda sukurti programos exe failą. Taip pat pridėtas ir pats .exe failas, kuris buvo sukurtas CMAKELISTS.txt pagalba.
 
 # Naudojimosi instrukcija:
 
