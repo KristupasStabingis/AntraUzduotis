@@ -35,3 +35,9 @@ Programos naudojimas:
 4.Jei 2. punkte pasirinkote duomenis vesti patys, tada jums rezultatas atsiras toje pačioje konsolėje.
 kitu atveju, bus sukurti Studentų failai su jų vardais/pavardėm/pažymiais bei suskirstyti vargšiukų ir kietiakų failai
 su jau suskirstytais studentais.
+
+CMAKELISTS diegimas:
+1. Atsidarykite projektą.
+2. Pridėkite CMAKELISTS failą paspaudę FILE -> OPEN -> CMAKE
+3. Atsidariusiame CMAKELISTS faile, ten, kur runninamas projektas pasirinkite V1.5.exe install
+4. Jums bus instaliuota programa, kuria galėsite naudotis. Ją galima rasti out->install folderyje šalia programos cpp failo.
